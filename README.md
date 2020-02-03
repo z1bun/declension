@@ -12,6 +12,7 @@ docker-compose up [-d]
 
 При запуске докера composer создаст дамп для автозагрузки классов.  
 Document root сервера настроен на папку public.
+Файл public/index.php доступен по адресу localhost.
 
 Для работы без докера требуется PHP >= 7.4
 
