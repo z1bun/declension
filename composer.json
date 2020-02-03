@@ -1,0 +1,17 @@
+{
+    "name": "zibun/declension",
+    "type": "project",
+    "description": "",
+    "authors": [
+        {
+            "name": "Артем Константинов",
+            "email": "artem@konstantinov.xyz"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
